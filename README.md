@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A passionate backend developer from Sweden</h3>
-
-- 🔭 I’m currently working on [DL Mechanical Defects](https://github.com/17mafo/DL-Mechanical-Defects)
+<h3 align="center">A  backend developer from Sweden. Who also enjoys Machine learning!</h3>
 
 - 👨‍💻 I’m currently Developing [skinhansa](skinhansa.com)
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on [DL Mechanical Defects](https://github.com/17mafo/DL-Mechanical-Defects)
 <p align="left">
 </p>
 
